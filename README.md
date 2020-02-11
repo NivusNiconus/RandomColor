@@ -1,7 +1,7 @@
 # RandomJS
 ## Installation
 
-You can download the latest version of RandomJS from the [GitHub releases]().
+You can download the latest version of RandomJS from the [GitHub releases](https://github.com/NivusNiconus/RandomJS/releases).
 
 ## Getting started
 In first it's important to have an element in your page.
